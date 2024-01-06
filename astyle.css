@@ -27,7 +27,7 @@ textarea {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-left: 80px;
+  
 }
 .newhead{
   color: white;
@@ -37,9 +37,9 @@ textarea {
   justify-content: center;
 }
 .newpar{
-  color: white;
-  width: 80%;
-  margin-left: 20px;
+  color: black;
+  
+  
 }
 .form {
   width: 100%;
@@ -326,7 +326,7 @@ textarea.input {
     grid-template-columns: 1fr;
   }
   .newlogo{
-    margin-left: 180px;
+   
   }
   
   .contact-info:before {
@@ -361,7 +361,7 @@ textarea.input {
     padding: 1.5rem 0 0 0;
   }
   .btn{
-    margin-left: 250px;
+    
   }
 }
 
@@ -369,9 +369,7 @@ textarea.input {
   .container {
     padding: 1.5rem;
   }
-  .newlogo{
-    margin-left: 100px;
-  }
+  
   
   .contact-info:before {
     display: none;
@@ -463,7 +461,7 @@ textarea.input {
   }
 
   .btn {
-    margin-left: 150px;
+    
     padding: 0.45rem 1.2rem;
   }
 }
